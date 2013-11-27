@@ -1,8 +1,4 @@
-﻿<link rel="stylesheet" type="text/css" href="style.css">
-
-<h1 class="myTitle">Noha</h1>
-
-Ahoj kolegové,
+﻿Ahoj kolegové,
 
 zde je ten slíbený seznam užitečných odkazů. Existují různé takové seznamy a stránka enginu má také vlastní wiki. Spoustu informací tam obsažených ale nevyužijeme. Proto, abych vám ušetřil čas, vybral jsem jen ty nejpodstatnější, které buď budete velmi častou používat, nebo usnadní nahlédnutí do toho, jak naše hra bude fungovat.
 

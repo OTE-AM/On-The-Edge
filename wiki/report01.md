@@ -86,6 +86,7 @@ Sporná část
 Pozn. Machys: na poradě jsem zapomněl zmínit princip TSP (Temporary strategic power), který plánujem do NOTY a odpovídal by jednomu řešení, které nás během diskuze napadlo (hráč by si pak místo předmětů a vybavení v lobby zvolil pouze "deck" kartiček s různými schopnostmi).
 
 Obecně
+------
 
 * Machys mluvil o možnostech schopností hrdinů (zbraní a techů) a jejich implementace - různé zbraně, různé druhy senzorů (radar, sonar, seismic, visual), pasivní area effekty, spawny jednotek a eventů (pád meteoru), terraforming
 

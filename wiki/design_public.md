@@ -46,8 +46,9 @@ Stylové vymezení
 Jak bude vypadat hraní hry
 --------------------------
 
-Krátký popis: "Hráč si navolí hrdinu a vrhne se s ním do boje proti 'těm druhým', třeba broukům nenažraným mimozemským. Konám svou povinnost! ... tedy většinou několikrát zemřu v boji za světový mír, který se rovná totálnímu vyhlazení protivníka"
-Dlouhá anotace:
+*Krátký popis:* "Hráč si navolí hrdinu a vrhne se s ním do boje proti 'těm druhým', třeba broukům nenažraným mimozemským. Konám svou povinnost! ... tedy většinou několikrát zemřu v boji za světový mír, který se rovná totálnímu vyhlazení protivníka"
+
+*Dlouhá anotace:*
 
 * Setup hry
 	* Hráč se připojí do multiplayerové herní místnosti a zde čeká na další hráče
@@ -181,8 +182,8 @@ Rozdělení rolí v týmu
 * (D) participovali a budou participovat při stanovování hlavních herních mechanik
 
 *Legenda k značkám*
-
 (popisujícím typ práce)
+
 **(A)** - výroba akustickýh efektů
 **(G)** - obecně grafická práce (Photoshop, ...)
 **(OPENGL)** - užití OPENGL particle efektů
@@ -199,4 +200,4 @@ Demonstrace hry
 
 Na demonstraci hry předvedeme jednu zrovna probíhající hru a další funkcionalitu budeme ukazovat na záznamech odehraných her.
 
-Podmínky hladkého průběhu (vize podkapitolu výše "kompatibilita a nestabilita enginu") (!doplnit odkaz)
+Podmínky hladkého průběhu (vizte podkapitolu výše "kompatibilita a nestabilita enginu") (!doplnit odkaz)

@@ -22,11 +22,11 @@ Práce na hře - často používané stránky
 * Soubory hry (definice, odkazy na podmanuály pro jednotlivé části hry, templaty, atd) - http://springrts.com/wiki/Gamedev:Main
 	* všichni budeme používat část Definition files a občas také GameData (armory, pohybové třídy), ostatní položky stránky použijí pouze tvůrci nových objektů do hry
 		
-		* definice jednotek - http://springrts.com/wiki/Units-UnitDefs (a jejich volání v enginu - http://springrts.com/wiki/Lua_UnitDefs)
-		* definice zbraní - http://springrts.com/wiki/Gamedev:WeaponDefs (a jejich volání v enginu - http://springrts.com/wiki/Lua_WeaponDefs)
-		* definice features - http://springrts.com/wiki/Gamedev:FeatureDefs (a jejich volání v enginu - http://springrts.com/wiki/Lua_FeatureDefs)
-		* definice armorů (tříd) - http://springrts.com/wiki/Armordefs.lua
-		* definice pohybových tříd - http://springrts.com/wiki/Movedefs.lua
+		* definice jednotek - [v herních souborech](http://springrts.com/wiki/Units-UnitDefs) (a jejich [volání v enginu](http://springrts.com/wiki/Lua_UnitDefs))
+		* definice zbraní - [v herních souborech](http://springrts.com/wiki/Gamedev:WeaponDefs) (a jejich [volání v enginu](http://springrts.com/wiki/Lua_WeaponDefs))
+		* definice features - [v herních souborech](http://springrts.com/wiki/Gamedev:FeatureDefs) (a jejich [volání v enginu](http://springrts.com/wiki/Lua_FeatureDefs))
+		* definice armorů (tříd) - [v herních souborech](http://springrts.com/wiki/Armordefs.lua)
+		* definice pohybových tříd - [v herních souborech](http://springrts.com/wiki/Movedefs.lua)
 		* a další, ale ty už budem používat o hodně méně
 
 * Lua scripty (hlavní stránka o programování gadgetů/widgetů, volání enginových funkcí skrze api) - http://springrts.com/wiki/Lua_Scripting
@@ -72,4 +72,6 @@ NOTA
 Rychlé zkoušení
 ===============
 
-Pokud chcete místo čtení rovnou vyzkoušet nějakou hru, instalujte odsud (http://nota.machys.net/downloads) - dostanete hru NOTA + lobby, po dvousekundové registraci v multiplayerové části si lze zobrazim kompletní seznam všech hostovaných her na různých mapách. Po připojení do libovolné místnosti se vám přes stáhnou další hry a mapy automaticky.
+Pokud chcete místo čtení rovnou vyzkoušet nějakou hru, instalujte odsud (http://nota.machys.net/downloads) - dostanete hru NOTA + lobby, po dvousekundové registraci v multiplayerové části si lze zobrazim kompletní seznam všech hostovaných her na různých mapách. Po připojení do libovolné místnosti se vám přes rapid stáhnou další hry a mapy automaticky.
+
+V tomto dokumentu používáme [MD sytax](https://help.github.com/articles/github-flavored-markdown) / [alternativní link](https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide)

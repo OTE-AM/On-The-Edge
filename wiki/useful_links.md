@@ -1,4 +1,8 @@
-﻿Ahoj kolegové,
+﻿<link rel="stylesheet" type="text/css" href="style.css">
+
+<h1 class="myTitle">Noha</h1>
+
+Ahoj kolegové,
 
 zde je ten slíbený seznam užitečných odkazů. Existují různé takové seznamy a stránka enginu má také vlastní wiki. Spoustu informací tam obsažených ale nevyužijeme. Proto, abych vám ušetřil čas, vybral jsem jen ty nejpodstatnější, které buď budete velmi častou používat, nebo usnadní nahlédnutí do toho, jak naše hra bude fungovat.
 
@@ -73,5 +77,7 @@ Rychlé zkoušení
 ===============
 
 Pokud chcete místo čtení rovnou vyzkoušet nějakou hru, instalujte odsud (http://nota.machys.net/downloads) - dostanete hru NOTA + lobby, po dvousekundové registraci v multiplayerové části si lze zobrazim kompletní seznam všech hostovaných her na různých mapách. Po připojení do libovolné místnosti se vám přes rapid stáhnou další hry a mapy automaticky.
+
+---
 
 V tomto dokumentu používáme [MD sytax](https://help.github.com/articles/github-flavored-markdown) / [alternativní link](https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide)

@@ -169,7 +169,8 @@ Demonstrace hry
 
 * Machys pouštěl ukázky lobby a nějakých herních jednotek v akci (odehrálo se v závěru, jen krátce)
 
-
 Sepsal Machys
+
+---
 	
 V tomto dokumentu používáme [MD sytax](https://help.github.com/articles/github-flavored-markdown) / [alternativní link](https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide)

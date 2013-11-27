@@ -1,0 +1,1 @@
+﻿* zde bude design document pro účely týmu

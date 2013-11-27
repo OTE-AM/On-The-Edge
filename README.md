@@ -1,4 +1,5 @@
 On-The-Edge
 ===========
 
-Master repository of project
+- game, map, wiki for project
+- under license CC BY-NC-SA

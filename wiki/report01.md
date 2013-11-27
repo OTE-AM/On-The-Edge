@@ -1,11 +1,9 @@
 ﻿Report - páteční setkání (1)
 ============================
 
-22. 11. 2013 (12:30 - 15:15)
-
-přítomni Machys, Michal, Pepa, Jakub
-
-s Pavlem jsme témata probrali od 10:50 - 11:40
+* 22. 11. 2013 (12:30 - 15:15)
+* přítomni Machys, Michal, Pepa, Jakub
+* s Pavlem jsme témata probrali od 10:50 - 11:40
 
 Úvodní anketa
 =============
@@ -89,7 +87,7 @@ Pozn. Machys: na poradě jsem zapomněl zmínit princip TSP (Temporary strategic
 
 Obecně
 
-* Machys mluvil o možnostech schopností a jejich implementace - různé zbraně, různé druhy senzorů (radar, sonar, seismic, visual), pasivní area effekty, spawny jednotek a eventů (pád meteoru), terraforming
+* Machys mluvil o možnostech schopností hrdinů (zbraní a techů) a jejich implementace - různé zbraně, různé druhy senzorů (radar, sonar, seismic, visual), pasivní area effekty, spawny jednotek a eventů (pád meteoru), terraforming
 
 Schopnosti členů týmu a rozdělení práce
 =======================================
@@ -171,5 +169,7 @@ Demonstrace hry
 
 * Machys pouštěl ukázky lobby a nějakých herních jednotek v akci (odehrálo se v závěru, jen krátce)
 
+
+Sepsal Machys
 	
-In this file we use [MD sytax](https://help.github.com/articles/github-flavored-markdown)
+V tomto dokumentu používáme [MD sytax](https://help.github.com/articles/github-flavored-markdown) / [alternativní link](https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide)

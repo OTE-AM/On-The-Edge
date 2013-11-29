@@ -143,7 +143,7 @@ Tým vývojařů zde určí, které části díla bude vyrábět a které jsou z
 	
 * kompatibilita a (ne)stabilita enginu
 	* vývojaři zajistí funkčnost herní demonstračního portovaného balíčku s hrou na Windows XP až Windows 7 a Linuxové distribuci založené na Ubuntu
-	* podmínkou úspěšného stabilního spuštění hry je cílový stroj (PC/notebook) vybavený vlastní neintegrovanou (low-endovou) grafickou kartou GeForce a posledními ovladači
+	* podmínkou úspěšného stabilního spuštění hry je cílový stroj (PC/notebook) vybavený vlastní neintegrovanou (low-endovou) grafickou kartou GeForce a posledními ovladači ([minimální/doporučené vlastnosti demonstračního stroje](http://springrts.com/wiki/About))
 	* od verze 91.0 je engine nestabilní na MacOS, tým tedy nezaručuje demonstrační způsobilost na Macu
 	
 * web hry

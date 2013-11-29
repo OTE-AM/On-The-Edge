@@ -1,8 +1,8 @@
-﻿On The Edge (OTE) 
+On The Edge (OTE) 
 =================
 (verze pro potřeby předmětu SWI115)
 
-* Počet hráčů: 2-10 (sudý počet)
+* Počet hráčů: 2-10 (sudý počet), rozdělení do dvou týmů
 * Singleplayer: ne
 * Platformy: Windows, Linux, MacOS
 * Engine: Spring ([web](http://springrts.com/))
@@ -82,7 +82,7 @@ Jak bude vypadat hraní hry
 Detailní herní mechanismy
 -------------------------
 
-Jsou popsány v [podrobné verzi design dokumentu](design_detail.md), která **není součástí** povinně odevzdávané specifikace.
+Jsou popsány v [podrobné verzi design dokumentu](design_detail.md), která **není součástí** povinně odevzdávané specifikace a bude dále upravována s postupem vývoje.
 
 Technická specifikace
 ---------------------

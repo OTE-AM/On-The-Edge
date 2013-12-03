@@ -97,6 +97,7 @@ Tým vývojařů zde určí, které části díla bude vyrábět a které jsou z
 
 * Simulace 3D prostředí s mnoha aktéry
 	* engine Spring - jeden z posledních stabilních releasů (pravděpodobně verzi 94.1, 95.0, případně novější, pokud bude vydán, spíše ne 91.0 a starší)
+	* zajišťuje také pathfining (hledání cesty pro jednoho nebo více aktérů z bodu A do bodu B) a exekuci jednoduchých příkazů (MOVE, ATTACK, DEFEND, REPAIR, PATROL,... ), ale vývojaři mají možnost měnit parametry řečeného.
 	* engine je kompletně zajišťován třetí stranou
 	
 * Herní mechaniky 
@@ -110,11 +111,11 @@ Tým vývojařů zde určí, které části díla bude vyrábět a které jsou z
 	* si zaplatí tvorbu těchto prvků u třetí strany/koupí práva na jejich užití
 	
 * Efekty
-	* tým vytvoří několik velmi jednoduchých efektů k herním schopnostem nebo
+	* tým vytvoří několik velmi jednoduchých efektů k herním schopnostem NEBO
 	* si zaplatí tvorbu těchto prvků u třetí strany/koupí práva na jejich užití
 	
 * Loadscreens
-	* tým vyrobí alespoň vlastní loadovací statické obrázky (pokud nedodá animovanou loadovací sekvenci, která je podmíněna tím, že je podporována až posledním verzemi enginu)
+	* tým vyrobí alespoň vlastní loadovací statické obrázky (pokud nedodá animovanou loadovací sekvenci, která je podmíněna tím, že je podporována až posledními verzemi enginu)
 	
 * GUI in-game (HUD hrdiny, herní statistiky, ovládací prvky) 
 	* využívající základní framework enginu +

@@ -1,21 +1,88 @@
-﻿* zde bude design document pro účely týmu
+Detailed design document for OTE
+================================
+(design document pro účely týmu)
 
-zatím jen kopie části z posledního reportu (přepíšu a rozepíšu ve Středu večer - pozn. Machys)
+* *nový obsah bude v angličtině - jednak kvůli tomu, že se některé herní pojmy a jejich popisy musí být srozumitelné anglicky mluvícím hráčům, jednak kvůli případnému následnému vývoji po prezentaci, aby se nemusel obsah design docu přepisovat*
 
-Hlavní body
+Dictionary
+----------
+* Hero = players unit
+* Soldier class = basic battle unit controled by AI (lines runners)
+* Ranger class = 2nd basic battle unit
+* Giant class = 3rd battle unit, advanced one
+* Metal = money, main source
+* Energy = fuel, secondary source
+
+Hero powers
 -----------
+(list)
 
-* zůstávají základní kameny: RTS, RPG, akce, roboti, brouci
-* hra se bude blížit žánru DOTA (s tím souhlasí všichni)
+* Sensor-based
+	* Cloak
+	* Cloak (+)
+	* Jammer
+	* Radar
+	* Seismic sensor
+	* Stealth
+	* (Sonar)
 
-mimo DOTU zazněly ještě alternativní nápady, které budou častečně užity v některých herních mechanikách
+* Eco/Army
+	* Command unit
+		* units in range gets speed/aim... bonus
+	* Repair kit
+		* units in range slowly "heal" themselves
+	* Learning module
+		* soldiers in range gets experience faster
+	* Loot bag
+		* for every killed enemy in range you get small amount of metal
+	* (+1)
+		* increase production of robots in choosen factory (per same price)
+	* Giants
+		* in choosen factory Giant unit is made once per given time from this time (can be used multiple times)
+	
+* Tactical
+	* Repair module
+	* Repair drone (self-repair)
+	* (Reclaim module)
+	* Capture module 
+	* Teleport module
+	* Jumpjet
+	* Digger (for hide unit underground)
+	* Terraformer
 
-* Pavel: navrhoval soupeření ve stylu Warcraft 3 mapy "CustomHeroLineWars" (ve zkratce, lajny nestvůr jsou úplně oddělené, každý jen brání a na základě efektivy bránění se posiluje armáda v útočném koridoru, pro podrobnosti googlete)
-* Machys: zmínil možnost coop mise, bránění ve stylu Tower Defense proti broukům
+	* Airstrike
+	* Minefield
+	* EMP mine
+	* Airscout
+	* Meteor call
+	* Nanobots attack
+	* Bugs ward (thumper)
+		* spawn few Spacebugs or call them from certain distance
 
-(oba variantní návrhy nevyužity vzhledem k tomu, že jsme se shodli na DOTA-like hře)
+* Weapons
+	* Laser
+	* Flamethrower
+	* Rapid-rocket salvo shooter
+	* Sniper rifle
+	* Rapid plasma machine gun
+	* electric short range gun (slow)
+	* scrambler guided rockets
 
-* zůstává záměr, že hráč by měl mít přímo pod kontrolou pouze hrdinu, vlastní armádu by měl ovlivňovat nepřímo pomocí upgradů a nákupů, o pohyb vlastních jednotek se stará AI
+
+Army
+----
+(spacebugs columnt is just names alternative for units with similar role)
+
+| Class         | Robots		| (Spacebugs) 	| HP	| Range	| DMG	| Rld 	| Speed |
+| ------------- |-----------------------| -------------	| -----	| -----	| -----	| -----	| -----	|
+| Soldier      	| Shotgun marine	| Alpha montro 	| 200	| 80	| 12	| 1	| 1	|
+| Ranger      	| Rifleman 		| Gamma montro	| 150	| 400	| 25	| 2	| 1	|
+| Giant 	| Grievous		| Dust bug	| 1000	| 200	| 50	| 2.5	| 0.7	|
+| Tower 1	| Camp			| Hole		| 1000	| 500	| 110	| 2.8	| 0	|
+| Tower 2	| Fort			| Big hole	| 2000	| 500	| 120	| 2.8	| 0	|
+| Tower 3	| Base			| Hive		| 4000	| 600	| 140	| 2.8	| 0	|
+| Spawner	| Factory		| Colony	| 6000	| 0	| 0	| 0	| 0	|
+
 
 Modifkace a návrhy odlišných mechanik vzhledem k DOTĚ 
 -----------------------------------------------------

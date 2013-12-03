@@ -253,4 +253,28 @@ Na demonstraci hry předvedeme jednu zrovna probíhající mulitplayerovou hru a
 
 Ve hře bude alespoň jeden plně funkční hrdina (1) a jeden set bojových jednotek (2-3), věží a továren (2) - tedy celkem hotových 5-6 modelů.
 
-Hra bude plynulá a nebude padat, pokud budou splněny podmínky specifikované [výše - Technická specifikace - (ne)stabilita enginu](https://github.com/OTE-AM/On-The-Edge/edit/master/wiki/design_public.md#technick%C3%A1-specifikace)
+Hra bude plynulá a nebude padat, pokud budou splněny podmínky specifikované [výše - Technická specifikace - (ne)stabilita enginu](https://github.com/OTE-AM/On-The-Edge/blob/master/wiki/design_public.md#technick%C3%A1-specifikace)
+
+Orientační termíny
+------------------
+
+* První týden 
+	* je hotová design specifikace schopností a hlavních herních mechanik
+	* je náhrán base content
+* Druhý týden
+	* specifikovány unitDefs všechn nehrdiských jednotek (prázdné schránky)
+	* web spuštěn
+* Třetí týden
+	* hotový TSP modul a modifikace na NOE
+	* první verze GUI bez textur
+	* hrdinové alespoň prázdné schránky, generátor definic hotovž
+* Čtvrtý týden
+	* levelovací systém hotový
+	* testování globálních herních mechanik a primitivní AI
+* Páty týden
+	* deadline pro všechen art-content
+	* deadline pro features a non-hero units
+* Šestý-sedmý týden
+	* ladění, testování
+	* dokončování částí, které se nestihly
+	* příprava na prezentaci

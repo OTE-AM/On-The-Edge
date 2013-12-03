@@ -2,7 +2,7 @@ Detailed design document for OTE
 ================================
 (design document pro účely týmu)
 
-* *nový obsah bude v angličtině - jednak kvůli tomu, že se některé herní pojmy a jejich popisy musí být srozumitelné anglicky mluvícím hráčům, jednak kvůli případnému následnému vývoji po prezentaci, aby se nemusel obsah design docu přepisovat*
+* *nový obsah bude v angličtině - jednak kvůli tomu, že některé herní pojmy a jejich popisy musí být srozumitelné anglicky mluvícím hráčům, jednak kvůli případnému následnému vývoji po prezentaci, aby se nemusel obsah design docu přepisovat*
 
 Dictionary
 ----------
@@ -65,13 +65,13 @@ Hero powers
 	* Rapid-rocket salvo shooter
 	* Sniper rifle
 	* Rapid plasma machine gun
-	* electric short range gun (slow)
-	* scrambler guided rockets
+	* Electric short range gun (slow)
+	* Scrambler guided rockets
 
 
 Army
 ----
-(spacebugs columnt is just names alternative for units with similar role)
+(spacebugs column is just names alternative for units with similar role)
 
 | Class         | Robots		| (Spacebugs) 	| HP	| Range	| DMG	| Rld 	| Speed |
 | ------------- |-----------------------| -------------	| -----	| -----	| -----	| -----	| -----	|

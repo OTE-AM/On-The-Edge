@@ -1,0 +1,13 @@
+//
+// Generated with TAS Modit v2.2 Beta
+//
+
+[MESSAGES]
+{
+	[Team %i (lead by %s) is no more]
+	{
+		tr1=Team %i (%s) has lost his right to live;
+		tr2=Team %i (%s) has be decomposed;
+// a dalsi mozne zpravy
+	}
+}

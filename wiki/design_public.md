@@ -1,4 +1,4 @@
-On The Edge (OTE) - design dokument 
+﻿On The Edge (OTE) - design dokument 
 ===================================
 (zkrácená verze pro potřeby předmětu SWI115, s důrazem na organizační složku výroby)
 
@@ -36,7 +36,7 @@ Hra kombinuje prvky několika žánrů a subžánrů. Níže uvedené a pro úč
 	* na mapě jsou strategicky významná místa a vzácné zdroje
 	* hráči jsou motivováni ke kombinování vhodných taktických vlastností hrdinů a ke kooperaci
 	* hra končí zničením hlavní nepřátelské budovy, ničení dalších budov lze považovat za dílčí úspěchy a zabíjení nepřátelských hrdinů je jedním z hlavních prostředků jak těchto úspěchů dosáhnout
-	* více o (sub)žánru DOTA na [wiki(cs)](http://cs.wikipedia.org/wiki/DotA). Pokud nebude níže řečeno jinak, tým se bude držet jeho pravidel i v detailech
+	* více o (sub)žánru DOTA na [wiki(cs)](http://cs.wikipedia.org/wiki/DotA) nebo obecně [MOBA](http://en.wikipedia.org/wiki/Multiplayer_online_battle_arena). Pokud nebude níže řečeno jinak, tým se bude držet jeho pravidel i v detailech
 
 Stylové vymezení
 ----------------

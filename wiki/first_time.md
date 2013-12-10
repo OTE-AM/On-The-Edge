@@ -29,4 +29,4 @@ Tipy&Tricky
 Ovládání
 --------
 
-![alt text](http://springrts.com/mediawiki/images/a/a5/KeyboardLayout.jpg "Klávesnice")
+![Klávesnice](http://springrts.com/mediawiki/images/a/a5/KeyboardLayout.jpg)

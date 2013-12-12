@@ -4,6 +4,13 @@ Detailed design document for OTE
 
 * *nový obsah bude v angličtině - jednak kvůli tomu, že některé herní pojmy a jejich popisy musí být srozumitelné anglicky mluvícím hráčům, jednak kvůli případnému následnému vývoji po prezentaci, aby se nemusel obsah design docu přepisovat*
 
+Content
+-------
+- [Dictionary](#dictionary)
+- [Hero powers](#hero-powers)
+- [Hero classes](#hero-classes)
+- [Army (examples)](#army-example)
+
 Dictionary
 ----------
 * Hero = players unit
@@ -13,64 +20,29 @@ Dictionary
 * Metal = money, main source
 * Energy = fuel, secondary source
 
-Hero powers
------------
-(list)
+Hero classes
+------------
 
-* Sensor-based
-	* Cloak
-	* Cloak (+)
-	* Jammer
-	* Radar
-	* Seismic sensor
-	* Stealth
-	* (Sonar)
+| Name		| Speed	| Gun 	| Reload | Range | HP 	| Heal 	| Armor | SpawnTime 	| E-storage 	|
+| ------------- | -----	| ----- | ------ | ----- | ---- | ----- | ----- | ------------- | ------------- |
+| Milie      	| 4	| 4 	| 3 	 | 1 	 | 4	| 3 	| 3 	| 3 		| 3 		|
+| Renge      	| 2	| 3 	| 1	 | 4 	 | 1	| 1 	| 1 	| 3 		| 2 		|
+| Trapper      	| 3	| 2 	| 4	 | 2 	 | 2	| 2 	| 2 	| 3 		| 2 		|
+| Guv      	| 3	| 3 	| 3	 | 3 	 | 3	| 2 	| 3 	| 2 		| 2 		|
+| Bulk      	| 2	| 4 	| 3 	 | 1 	 | 5	| 3 	| 4 	| 4		| 3 		|
 
-* Eco/Army
-	* Command unit
-		* units in range gets speed/aim... bonus
-	* Repair kit
-		* units in range slowly "heal" themselves
-	* Learning module
-		* soldiers in range gets experience faster
-	* Loot bag
-		* for every killed enemy in range you get small amount of metal
-	* (+1)
-		* increase production of robots in choosen factory (per same price)
-	* Giants
-		* in choosen factory Giant unit is made once per given time from this time (can be used multiple times)
-	
-* Tactical
-	* Repair module
-	* Repair drone (self-repair)
-	* (Reclaim module)
-	* Capture module 
-	* Teleport module
-	* Jumpjet
-	* Digger (for hide unit underground)
-	* Terraformer
+Legend: for specification of values of units we will use "classes" instead of exact numbers, which helps us to keep relative knowledge of powers still, but enable us to parametrize whole game fast and swift ;)
 
-	* Airstrike
-	* Minefield
-	* EMP mine
-	* Airscout
-	* Meteor call
-	* Nanobots attack
-	* Bugs ward (thumper)
-		* spawn few Spacebugs or call them from certain distance
+-----
+* 1 - very low
+* 2 - lower then average
+* 3 - average
+* 4 - higher then average
+* 5 - very high
+* 6+ - more then high when unit level up (for later us)
 
-* Weapons
-	* Laser
-	* Flamethrower
-	* Rapid-rocket salvo shooter
-	* Sniper rifle
-	* Rapid plasma machine gun
-	* Electric short range gun (slow)
-	* Scrambler guided rockets
-
-
-Army
-----
+Army (example)
+--------------
 (spacebugs column is just names alternative for units with similar role)
 
 | Class         | Robots		| (Spacebugs) 	| HP	| Range	| DMG	| Rld 	| Speed |
@@ -82,6 +54,7 @@ Army
 | Tower 2	| Fort			| Big hole	| 2000	| 500	| 120	| 2.8	| 0	|
 | Tower 3	| Base			| Hive		| 4000	| 600	| 140	| 2.8	| 0	|
 | Spawner	| Factory		| Colony	| 6000	| 0	| 0	| 0	| 0	|
+| Walker	| Trader		| Worker	| 200	| 0	| 0	| 0	| 1	|
 
 
 Modifkace a návrhy odlišných mechanik vzhledem k DOTĚ 

@@ -96,3 +96,14 @@ Obecně
 ------
 
 * Machys mluvil o možnostech schopností hrdinů (zbraní a techů) a jejich implementace - různé zbraně, různé druhy senzorů (radar, sonar, seismic, visual), pasivní area effekty, spawny jednotek a eventů (pád meteoru), terraforming
+ 
+
+Levels and experience (rules)
+-----------------------------
+
+* if there is more heroes in range of "expereince source action", then experience is divided between heroes
+* "expereince source action" =
+	* damaging enemy creep/army member
+	* killing enemy hero
+	* killing tower
+	* capturing strategic spot

@@ -1,4 +1,4 @@
-﻿Poprvé
+Poprvé
 ======
 
 Zde si lze přečíst hinty pro první minuty práce na projektu
@@ -14,6 +14,17 @@ Setup enginu a vývojového adresáře
 	6) dejte "host game" - tam vyberte libovolnou mapu, hru OTE r0001 a engine 94.1
 	7) můžete dát proti sobě AI CppTestAI (nic nedělá)
 	8) Start Game
+
+Poprvé s gitem (pro Windows nooby)
+----------------------------------
+
+	1) stáhnut portable git na windows - http://portableapps.com/node/36346
+	2) nainstalovat a spustit git s GUI
+	3) kliknout na "clone existing repostiory..."
+	4) jako zdroj vybrat link, který se dá okoporírovat v pravém sloupic na github při prohlížení dané repository
+	5) jako target vybrat adresář uvnitř instalace NOTY ./SpringData/Games/ote.sdd (smazat ho, pokud je již vytvořen)
+	6) clone
+	7) teď už může člověk hrát (viz kuchařku výše), pokud jste měli zapnutou lobby, je třeba opakovat krok 4) předchozího návodu
 
 Tipy&Tricky
 -----------
